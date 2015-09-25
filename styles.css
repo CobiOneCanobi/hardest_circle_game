@@ -1,0 +1,12 @@
+.circle{
+  position: absolute;
+  border-radius: 50%;
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background-color: yellow;
+  color: white;
+  font-weight: bold;
+  font-family: "Arial";
+}

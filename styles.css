@@ -10,3 +10,33 @@
   font-weight: bold;
   font-family: "Arial";
 }
+
+#menu{
+  float: left;
+  width: 50%;
+  font-family: "Arial";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+#preGame{
+  text-align: center;
+}
+
+#start{
+
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #24eb12;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+
+}
+
